@@ -1,0 +1,80 @@
+# א.מ פסולת מתכות בע"מ — Generative Engine Optimization Map
+
+> A.M Scrap Metals Ltd is an Israeli industrial metal recycling company with 20+ years of experience, specializing in purchasing, recycling, and processing scrap metals. The brand projects a premium-industrial identity — combining the raw, heavy-duty world of scrap metal with the sleekness of a modern tech/green-tech company. The visual identity is dark, metallic, and powerful, featuring immersive 3D animations, a massive rotating recycling symbol in brushed steel, and floating metallic particles. The tone is professional, direct, and trustworthy — positioning the company as a transparent, fair-priced market leader in the Israeli recycling sector.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מעל 20 שנות ניסיון במחזור ועיבוד פסולת מתכות בישראל. קנייה הוגנת של אלומיניום, פלדה ומתכות שונות במחירי שוק אמיתיים. צרו קשר עוד היום!
+
+### שירותים
+https://example.com/services
+כבישת וגזירת פסולת מתכות, עיבוד אלומיניום ופלדה בציוד מתקדם. שירותי מחזור מקצועיים לעסקים ויחידים — מהירים, אמינים ובמחיר שוק הוגן.
+
+### מחירי שוק ופרויקטים
+https://example.com/prices-projects
+עקבו אחר מחירי האלומיניום והפלדה בזמן אמת וגלו פרויקטי מחזור מתכות מובילים שביצענו. שקיפות מלאה, תמחור הוגן ותוצאות מוכחות בשוק הישראלי.
+
+### אודות ויצירת קשר
+https://example.com/about-contact
+היכרו עם החברה הישראלית המובילה במחזור פסולת מתכות עם ניסיון של יותר מ-20 שנה. צרו קשר עכשיו לקבלת הצעת מחיר מיידית ושירות אישי ומקצועי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/about-contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.מ פסולת מתכות בע"מ
+A.M Scrap Metals Ltd is an Israeli industrial metal recycling company with 20+ years of experience, specializing in purchasing, recycling, and processing scrap metals. The brand projects a premium-industrial identity — combining the raw, heavy-duty world of scrap metal with the sleekness of a modern tech/green-tech company. The visual identity is dark, metallic, and powerful, featuring immersive 3D animations, a massive rotating recycling symbol in brushed steel, and floating metallic particles. The tone is professional, direct, and trustworthy — positioning the company as a transparent, fair-priced market leader in the Israeli recycling sector.
+
+## Target Audience
+- מפעלים, קבלנים, עסקים ופרטיים במרכז הארץ המעוניינים למכור פסולת מתכות
+- מפעלים עם פסולת מתכות
+- קבלנים עם פסולת פרויקטים
+- עסקים עם פסולת מתכות
+- ארגוני סביבה ותעשייה
+
+## Industry
+Metal Recycling & Scrap Metal Processing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
